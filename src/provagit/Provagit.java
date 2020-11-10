@@ -16,10 +16,10 @@ public class Provagit {
      */
     public static void main(String[] args) {
 
-    int i = 1;
+    int i = 0;
     while (true){
-    System.out.println("ehi ciao: "+ i+1);
-    i--;
+    System.out.println("ehi ciao: "+ i);
+    i++;
 }
     }
     
